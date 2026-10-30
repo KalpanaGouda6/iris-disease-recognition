@@ -19,7 +19,6 @@ Built with a Flask backend and HTML/CSS frontend.
 ## 📂 Project Duration  
 📅 May 2023 – Oct 2023  
 
-## 🔗 Demo Link  
-[Google Drive Project Files](https://drive.google.com/drive/folders/1mKfnDy-jcY3hJyjZya-ti-oHZIWxCeYw)  
 
----
+
+
